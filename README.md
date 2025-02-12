@@ -24,7 +24,7 @@ PgAssistant is an open-source tool designed to help developers understand and op
 
 ## Screen shots
 
-![Alt text](media/pgassistant.png?raw=true "pgAssistant")
+![Alt text](media/screenshot.png?raw=true "pgAssistant")
 
 ## Demo
 
